@@ -6,3 +6,6 @@
 - 📫 How to reach me: 
   - [Twitter - @_ChristianPari](https://twitter.com/_ChristianPari) 
   - Email - christianpari@outlook.com
+
+#### Now Playing:
+[![Spotify](https://novatorem-woad-seven.vercel.app/api/spotify)](https://open.spotify.com/user/christianpari)
