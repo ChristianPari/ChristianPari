@@ -1,8 +1,9 @@
-### Hi, I'm Chris 👋
+### Hi 👋 I'm Chris
 
 - 🔭 I’m currently working on becoming a Full Stack Software Developer
-- 🌱 I’m currently learning React & Redux to comeplete my MERN Stack
-- 💬 Ask me about anything really, the wife says I love to talk
+- 🌱 I’m currently learning:
+  - React & Redux to comeplete my MERN Stack
+  - Python
 - 📫 How to reach me: christianpari@outlook.com
 
 #### Now Playing:
