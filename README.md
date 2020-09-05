@@ -17,6 +17,9 @@
   <a href="https://twitter.com/_christianpari" >
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/christian-pari-2102801a0/" >
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 - Technologies I'm proficient in...
