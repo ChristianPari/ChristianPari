@@ -4,12 +4,9 @@
 - 📘 I’m currently learning...
 
 <p align="left">
-<!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40" /> -->
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40" />
 </p>
 
 - 📲 How to reach me?
