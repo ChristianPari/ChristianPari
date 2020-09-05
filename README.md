@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Chris
 
-- 🔭 I’m currently working on becoming a Full Stack Software Developer
-- 🌱 I’m currently learning...
+- 💻 I’m currently working on becoming a Full Stack Software Developer
+- 📘 I’m currently learning...
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40" height="40" />
@@ -9,7 +9,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40" />
 </p>
 
-- 📫 How to reach me?
+- 📲 How to reach me?
 <p align="left">
   <a href="mailto: christianpari@outlook.com" >
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
