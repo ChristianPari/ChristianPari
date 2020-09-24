@@ -4,7 +4,7 @@
 #### 📘 I’m currently learning...
 <div>
   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40" height="40" /><img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" width="40" height="40" /><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40" /><img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40" height="40" /><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40" /><img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="40" height="40" />
   
 </div>
 
