@@ -4,7 +4,7 @@
 #### 📘 I’m currently learning...
 <div>
   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40" height="40" /><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40" /><img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40" /><img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="40" height="40" />
   
 </div>
 
@@ -24,6 +24,7 @@
 #### 💪 Technologies I'm proficient in...
 <div>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
