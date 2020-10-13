@@ -4,7 +4,7 @@
 #### 📘 I’m currently learning...
 <div>
   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40" /><img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="40" height="40" />
   
 </div>
 
@@ -21,15 +21,10 @@
   </a>
 </div>
 
-#### 💪 Technologies I'm proficient in...
+#### 💪 Technologies I'm familiar with...
 <div>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </div>
 
 #### What I'm listening to?
