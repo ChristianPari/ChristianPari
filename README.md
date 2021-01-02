@@ -27,5 +27,30 @@
   </a>
 </div>
 
-#### What I'm listening to?
+#### 🎶 What I'm listening to?
 [![Spotify](https://novatorem-woad-seven.vercel.app/api/spotify)](https://open.spotify.com/user/christianpari)
+
+#### 🤔 Noticing the blank squares in my contributions?
+<div>
+  I know, it's never nice to see those.. Unfortunately I have had some instances of needing to step away from coding, all very neccessary might I add. Below are (without too much detail) short explanations for each gap of time, hope [person reading this] will understand that the misses in commits do not reflect my work habit
+  <ul>
+    <li>
+      <h4>Dec 12 - Dec 14 -- 2020</h4>
+      <div>
+        Took the weekend off to rest my wrist and forearms after beginning to develope carapal tunnel symdrome symptoms, fortunately it helped and I have had no issues since.
+      </div>
+    </li>
+    <li>
+      <h4>Dec 25 - Dec 27 -- 2020</h4>
+      <div>
+        Took advantage of being ahead in my class assigments and projects to spend the Christmas weekend with my Wife and in laws, time together has been slim lately due to work and school so I needed that time.
+      </div>
+    </li>
+    <li>
+      <h4>Dec 30 -- 2020 - Jan 2 -- 2021 (end date subject to change, still fighting this off)</h4>
+      <div>
+        Well I wrapped up 2020 by becoming infected with Covid and having gone through literally every symptom through these 4 days, (also being a Heart Failure and Asthma Patient) resting and feeling better was the top of my wifes' and I's list
+      </div>
+    </li>
+  </ul>
+</div>
