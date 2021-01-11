@@ -49,7 +49,7 @@
     <li>
       <h4>Dec 30 -- 2020 - Jan 6 -- 2021</h4>
       <div>
-        Well I wrapped up 2020 by becoming infected with Covid and having gone through literally every symptom through these 4 days, (also being a Heart Failure and Asthma Patient) resting and feeling better was the top of my wifes' and I's list
+        Well I wrapped up 2020 by becoming infected with Covid and having gone through literally every symptom through these 7 days, (also being a Heart Failure and Asthma Patient) resting and feeling better was the top of my wifes' and I's list
       </div>
     </li>
   </ul>
