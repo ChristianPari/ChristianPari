@@ -4,7 +4,7 @@
 #### 📘 I’m currently learning...
 <div>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/OOP.svg/1200px-OOP.svg.png" alt="java" width="60" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /><img src="https://github.com/ChristianPari/ChristianPari/blob/master/oop.png" alt="java" width="50" height="40" />
   
 </div>
 
