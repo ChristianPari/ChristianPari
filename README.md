@@ -4,8 +4,7 @@
 #### 📘 I’m currently learning...
 <div>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /><img src="https://github.com/ChristianPari/ChristianPari/blob/master/oop.png" alt="java" width="50" height="40" />
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /> <img src="https://github.com/ChristianPari/ChristianPari/blob/master/oop.png" alt="oop" width="50" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30" />
 </div>
 
 #### 💪 Technologies I'm familiar with...
