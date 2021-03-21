@@ -1,19 +1,52 @@
-### Hi 👋 I'm Chris
+## Hi 👋 I'm Chris
 
-#### 💻 I’m currently working on becoming a <em>Full Stack Software Developer</em>
-#### 📘 I’m currently learning...
+### 💻 I’m currently working on becoming a <em>Full Stack Software Developer</em>
+
+### 📘 I’m currently learning...
 <div>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /> <img src="https://github.com/ChristianPari/ChristianPari/blob/master/oop.png" alt="oop" width="50" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="boostrap" width="40" height="40" />
+  
 </div>
 
-#### 💪 Technologies I'm familiar with...
+### 💪 What am I familair with?
+
+#### 🌐 Languages...
+<div>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+
+</div>
+
+#### 🖽 Framework/Libraies...
+<div>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="springio" width="70" height="40"/> <img src="https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg" alt="selenium" width="40" height="40"/>
+
+</div>
+
+#### 🗄️ Databases...
 <div>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+   
+ </div>
+
+#### ⌨️ IDE's...
+<div>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intelli-j" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40" />
+  
 </div>
 
-#### 📲 How to reach me?
+#### 🧪 Testing...
+<div>
+
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> <img src="https://github.com/gilbarbara/logos/blob/master/logos/insomnia.svg" alt="insomina" width="40" height="40" />
+
+</div>
+
+### 📲 How to reach me?
 <div>
   <a href="mailto: christianpari@outlook.com" >
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
@@ -26,10 +59,10 @@
   </a>
 </div>
 
-#### 🎶 What I'm listening to?
+### 🎶 What I'm listening to?
 [![Spotify](https://novatorem-woad-seven.vercel.app/api/spotify)](https://open.spotify.com/user/christianpari)
 
-#### 🤔 Noticing the blank squares in my contributions?
+### 🤔 Noticing the blank squares in my contributions?
 <div>
   I know, it's never nice to see those.. Unfortunately I have had some instances of needing to step away from coding, all very neccessary might I add. Below are (without too much detail) short explanations for each gap of time, hope [person reading this] will understand that the misses in commits do not reflect my work habit
   <ul>
