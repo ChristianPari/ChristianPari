@@ -3,11 +3,7 @@
 ### 💻 I’m currently working on becoming a <em>Full Stack Software Developer</em>
 
 ### 📘 I’m currently learning...
-<div>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="boostrap" width="40" height="40" />
-  
-</div>
+<div></div>
 
 ### 💪 What am I familair with?
 
@@ -21,7 +17,7 @@
 #### 🖽 Framework/Libraies...
 <div>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="springio" width="70" height="40"/> <img src="https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg" alt="selenium" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="springio" width="70" height="40"/> <img src="https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg" alt="selenium" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="boostrap" width="40" height="40" />
 
 </div>
 
