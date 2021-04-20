@@ -5,7 +5,7 @@
 ### 📘 I’m currently learning...
 <div></div>
 
-### 💪 What am I familair with?
+### 💪 What am I familiar with?
 
 #### 🌐 Languages...
 <div>
