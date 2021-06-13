@@ -80,5 +80,11 @@
         Well I wrapped up 2020 by becoming infected with Covid and having gone through literally every symptom through these 7 days, (also being a Heart Failure and Asthma Patient) resting and feeling better was the top of my wifes' and I's list
       </div>
     </li>
+    <li>
+      <h4>Second week of May to current -- 2021 </h4>
+      <div>
+        Hit a burnout around the start of May and am still currently working myself back up to healthy state, didn't realize I was over working myself with home life, work and school the last year and a half so it caught up to me. I cut back on time I was staying up to catch up on sleep and rest; am gradually working back up to more coding hours so I currently get in what I can whether it's researching and studying or coding itself. (THIS WILL BE UPDATED AS I GET MYSELF BACK INTO A HEALTHY STATE)
+      </div>
+    </li>
   </ul>
 </div>
