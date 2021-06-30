@@ -86,5 +86,11 @@
         Hit a burnout around the start of May and am still currently working myself back up to healthy state, didn't realize I was over working myself with home life, work and school the last year and a half so it caught up to me. I cut back on time I was staying up to catch up on sleep and rest; am gradually working back up to more coding hours so I currently get in what I can whether it's researching and studying or coding itself. Mostly working on preparing myself for interview tests which might not include commiting any code to GitHub since I will be taking practice tests on various sites.
       </div>
     </li>
+    <li>
+      <h4>June 19 - June 27 -- 2021 </h4>
+      <div>
+        Went on vacation with my wife
+      </div>
+    </li>
   </ul>
 </div>
