@@ -2,8 +2,8 @@
 
 ### 💻 I’m currently working on becoming a <em>Full Stack Software Developer</em>
 
-### 📘 I’m currently learning...
-<div></div>
+<!-- ### 📘 I’m currently learning...
+<div></div> -->
 
 ### 💪 What am I familiar with?
 
