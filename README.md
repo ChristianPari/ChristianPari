@@ -5,7 +5,7 @@
 <!-- ### 📘 I’m currently learning...
 <div></div> -->
 
-### 💪 What am I familiar with?
+### 💪 What am I familiar with? [Link to Portfolio](https://christianpari.github.io/)
 
 #### 🌐 Languages...
 <div>
